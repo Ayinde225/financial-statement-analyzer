@@ -1,5 +1,9 @@
 # 📊 Financial Statement Analyzer
 
+🔗 **Live demo:** [https://ayinde225.github.io/financial-statement-analyzer/](https://ayinde225.github.io/financial-statement-analyzer/)
+
+[![Deploy to GitHub Pages](https://github.com/Ayinde225/financial-statement-analyzer/actions/workflows/deploy.yml/badge.svg)](https://github.com/Ayinde225/financial-statement-analyzer/actions/workflows/deploy.yml)
+
 Enter or upload an **income statement** and **balance sheet**, and instantly get
 the standard financial ratios — **liquidity, profitability, leverage, and
 efficiency** — each rated against rule-of-thumb benchmarks, plus a ranked list
